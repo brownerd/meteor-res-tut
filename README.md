@@ -3,3 +3,5 @@
 Just learning a little Meteor here.
 
 [Meteor For Everyone](http://leveluptuts.com/tutorials/meteor-for-everyone)
+
+[Explore Meteor Packages](https://atmospherejs.com/)
